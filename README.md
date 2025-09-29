@@ -2,7 +2,8 @@
 
 This is a more graphical representation of the instructions supported by the Game Boy CPU. The goal was to get all relevant information to fit on one sheet of A4 paper, and to employ graphs, figures and tables instead of lists. Graphs are used to show the Loads possible with a single instruction, whereas tables compare similar instructions.
 
-![Preview of the PDF](/Printable%20Game%20Boy%20Instructions%20Cheat%20Sheet.png)
+[![Preview of the PDF](/Printable%20Game%20Boy%20Instruction%20Cheat%20Sheet.png)](https://nummacway.github.io/game-boy-cheat-sheet/Printable%20Game%20Boy%20Instruction%20Cheat%20Sheet.pdf)
+[Download](https://nummacway.github.io/game-boy-cheat-sheet/Printable%20Game%20Boy%20Instruction%20Cheat%20Sheet.pdf)
 
 The product has been created with Affinity Publisher v1.10.6 in late September 2025. The 8-Bit Loads graph is from February 2025. Because the latter's original size/DPI (it wasn't originally meant to be printed) looked nicest when put on A5 paper, the original project file (`.afpub`) uses A5 paper. It was upscaled to A4 prior to export.
 
